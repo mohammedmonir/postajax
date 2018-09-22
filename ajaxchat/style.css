@@ -1,0 +1,51 @@
+*{
+padding:0px;
+margin:0px
+
+
+}
+body{
+    background:rgb(240, 240, 240);
+
+
+
+}
+
+#wrapper{
+width:700px;
+margin:10px auto;
+background:#f1f1f1;
+padding:20px;
+
+
+
+}
+.chat-wrapper{
+   width:100%;
+   margin:10px atuo;
+   background:#c0a2a2;
+}
+
+#chat{
+    min-height: 300px;
+    border:1px solid #b3b3b3;
+    padding:10px;
+    margin-bottom: 10px;
+    background: white
+
+}
+textarea{
+width:97%;
+border:1px solid #b3b3b3;
+outline: none;
+padding:10px;
+
+
+
+}
+.action:hover{
+    color:red
+
+
+
+}
